@@ -5,4 +5,4 @@ Solving the N-Queens problem with four different algorithms implemented in Pytho
 1. Min-Conflicts
 2. Min-Conflicts with Random Walk
 3. Tabu Search
-4. Breakout (very slow implementation)
+4. Breakout
